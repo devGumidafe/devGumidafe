@@ -1,4 +1,4 @@
-[![Gumidev.com](https://res.cloudinary.com/gumi-cloud/image/upload/v1640724667/hgsljinz9w2iicdb9xzx.png)](https://gumidev.com)
+[![Gumidev.com](https://res.cloudinary.com/gumi-cloud/image/upload/q_100:420,r_30/v1640724667/hgsljinz9w2iicdb9xzx.png)](https://gumidev.com)
 
 ## Hola, soy Gumidafe
 #### :beginner: Junior Frontend Developer en **búsqueda activa** de empleo ♨️
