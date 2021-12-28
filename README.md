@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Gumidev.com](https://res.cloudinary.com/gumi-cloud/image/upload/v1640724667/hgsljinz9w2iicdb9xzx.png)](https://gumidev.com)
 
-<!--
-**devGumidafe/devGumidafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, soy Gumidafe
+#### :beginner: Junior Frontend Developer en **búsqueda activa** de empleo ♨️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: Me dedico a:
+
+- A trabajar en mis proyectos, me encanta aprender nuevos conceptos de programación y profundizar sobre las herramientas que uso.
+- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
+
+### 📖 Leyendo actualmente: 
+- "Clean JavaScript" de Migel A. Gomez.
+- "Mern Guía Práctica de Aplicaciones Web" de Jesús Fontecha, Manuel Ángel Serrano, Iván Gonzalez y Ramón Hervas.
+- "Learning Patterns" de Lydia Hallie y Addy Osmani.
