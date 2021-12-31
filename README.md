@@ -1,4 +1,4 @@
-[![Gumidev.com](profile.png)](https://gumidev.com)
+[![Gumidev.com](profile.jpg)](https://gumidev.com)
 
 ## Hola, soy Gumidafe
 #### Actualmente me encuentro en **búsqueda activa** de empleo ♨️
