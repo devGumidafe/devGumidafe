@@ -1,4 +1,4 @@
-[![Gumidev.com](https://res.cloudinary.com/gumi-cloud/image/upload/c_limit,q_50,r_50,w_1900/v1640730982/oa7dxlmsd8yekco3uy91.png)](https://gumidev.com)
+[![Gumidev.com](index.png)](https://gumidev.com)
 
 ## Hola, soy Gumidafe
 #### Actualmente me encuentro en **búsqueda activa** de empleo ♨️
