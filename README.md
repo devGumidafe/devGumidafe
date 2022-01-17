@@ -27,14 +27,10 @@
 #### Application and Data:
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-the-badge&logo=html5&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-the-badge&logo=material-ui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-the-badge&logo=mysql&logoColor=white)
 
 #### UX/UI:
