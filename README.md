@@ -11,8 +11,6 @@
 - "Clean JavaScript" de Migel A. Gomez.
 - "Mern Guía Práctica de Aplicaciones Web" de Jesús Fontecha, Manuel Ángel Serrano, Iván Gonzalez y Ramón Hervas.
 
-<br>
-
 ## Stack:
 
 #### Languages:
