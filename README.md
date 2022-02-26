@@ -1,7 +1,6 @@
 [![Gumidev.com](index.png)](https://gumidev.com)
 
 ## Hola, soy Gumidafe
-#### Actualmente me encuentro en **búsqueda activa** de empleo ♨️
 
 ### :computer: Me dedico a:
 
@@ -11,7 +10,6 @@
 ### 📖 Leyendo actualmente: 
 - "Clean JavaScript" de Migel A. Gomez.
 - "Mern Guía Práctica de Aplicaciones Web" de Jesús Fontecha, Manuel Ángel Serrano, Iván Gonzalez y Ramón Hervas.
-- "Learning Patterns" de Lydia Hallie y Addy Osmani.
 
 <br>
 
