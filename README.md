@@ -4,14 +4,13 @@
 
 ### :computer: Actualmente:
 
-- Trabajo en Desic consultora informática, llevando el mantenimiento de varias aplicaciones con el stack Java-Angular.
+- Trabajo en Desic consultora informática, usando el stack Java-Angular.
 - Me encanta aprender nuevos conceptos de programación y profundizar sobre las herramientas que uso.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
 
 ### 📖 Leyendo actualmente: 
 - "El programador pragmático" de David Thomas y Andrew Hunt.
-- "Hibernate. Persistencia De Objetos" de Eugenia Pérez Martíne.
-- "Arquitectura limpia" de Robert C. Martin.
+- "Código Sostenible" de Carlos Blé.
 
 ## Stack:
 
