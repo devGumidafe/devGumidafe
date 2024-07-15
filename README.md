@@ -22,7 +22,7 @@
 
 
 #### Application and Data:
-h
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3-green1?style=flat-the-badge&logo=vue&logoColor=white)
