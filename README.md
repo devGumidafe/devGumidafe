@@ -8,10 +8,6 @@
 - Me encanta aprender nuevos conceptos de programación y profundizar sobre las herramientas que uso.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
 
-### 📖 Leyendo actualmente: 
-- "El programador pragmático" de David Thomas y Andrew Hunt.
-- "Código Sostenible" de Carlos Blé.
-
 ## Stack:
 
 #### Languages:
@@ -23,21 +19,11 @@
 
 #### Application and Data:
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3-green1?style=flat-the-badge&logo=vue&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-the-badge&logo=spring&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-the-badge&logo=html5&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-the-badge&logo=material-ui&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-the-badge&logo=postgresql&logoColor=white)
-
-#### UX/UI:
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 
 #### Utilities:
 
