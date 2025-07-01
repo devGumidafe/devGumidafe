@@ -4,7 +4,7 @@
 
 ### :computer: Actualmente:
 
-- Trabajo en Desic consultora informática, usando el stack Java-Vue.
+- Trabajo en Cibervoluntarios,en el stack Php-Vue.
 - Me encanta aprender nuevos conceptos de programación y profundizar sobre las herramientas que uso.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
 
