@@ -10,8 +10,6 @@
     <b>Construyo interfaces limpias, rápidas y agradables de usar. Y sí, también me importa que el código no dé miedo al abrirlo.</b>
   </p>
 
-  <br>
-
   <p align="left">
    Actualmente trabajo como <b>Desarrollador Frontend en Cibervoluntarios</b>, usando un stack híbrido de PHP y Vue.js.  
    Me obsesiona (en el buen sentido) el aprendizaje continuo, el ecosistema JavaScript y aplicar buenas prácticas para que los proyectos escalen sin drama y el “yo del futuro” no quiera borrarlo todo.
