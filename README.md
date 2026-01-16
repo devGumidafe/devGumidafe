@@ -58,7 +58,7 @@ Mi hábitat natural es Vue.js con TypeScript. Me gusta entender lo que pasa bajo
 Un frontend para gobernarlos a todos, un portfolio para encontrarlos… si quieres hablar de Vue o de un nuevo proyecto, conecta conmigo. 💍
 
 <div align="center">
-  <a href="https://gumidev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://gumidev.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/gumidev.com-0A0A0A?style=flat&logo=google-chrome&logoColor=white" alt="gumidev.com" />
   </a>
 </div>
